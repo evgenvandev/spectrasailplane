@@ -1,0 +1,2 @@
+# spectrasailplane
+Design sailplane Spectra
